@@ -20,7 +20,7 @@ click==7.1.1
 colorama==0.4.1
 colorlog==4.0.2
 contextvars==2.4
-cryptography==2.9.2
+cryptography==3.2
 dataclasses==0.7
 dominate==2.5.1
 enum34==1.1.10
