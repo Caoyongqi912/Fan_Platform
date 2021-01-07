@@ -63,7 +63,7 @@ jsonschema==3.2.0
 jwt==1.0.0
 kombu==3.0.37
 loguru==0.4.1
-lxml==4.5.2
+lxml==4.6.2
 Mako==1.1.2
 MarkupSafe==1.1.1
 more-itertools==8.4.0
